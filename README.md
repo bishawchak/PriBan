@@ -16,8 +16,7 @@ It introduces a **fine-tuned BanglaT5 model** and a **human-inspired dataset** t
 
 ##  Motivation
 
-With the growing use of **Large Language Models (LLMs)**, users often share sensitive information—sometimes unknowingly.  
-While there are solid anonymization frameworks for **English**, **Bangla remains a low-resource language** in this area.  
+With the growing use of **Large Language Models (LLMs)**, users often share sensitive information—sometimes unknowingly.While there are solid anonymization frameworks for **English**, **Bangla remains a low-resource language** in this area.  
 
  **PriBan** addresses this gap by:
 -  Building the **first Bangla dataset** for privacy-preserving text rewriting.  
