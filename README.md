@@ -1,4 +1,4 @@
-#  PriBan: Privacy-Preserving Text Rewriting in Bangla
+# 🛡️ PriBan: Privacy-Preserving Text Rewriting in Bangla
 
 > 📝 **Note:**  
 > This paper has been **submitted to** [**International Conference on Computer and Information Technology (ICCIT) 2025**](https://iccit.org.bd/2025/about-iccit/) and is **currently under review**.  
@@ -6,7 +6,7 @@
 
 ---
 
-##  Overview
+## 🌍 Overview
 
 **PriBan** is the **first-ever** benchmark dataset and modeling framework for **privacy-preserving sentence rewriting in Bangla (Bengali)**. 
 
@@ -14,26 +14,26 @@ It introduces a **fine-tuned BanglaT5 model** and a **human-inspired dataset** t
 
 ---
 
-##  Motivation
+## 💡 Motivation
 
 With the growing use of **Large Language Models (LLMs)**, users often share sensitive information—sometimes unknowingly.While there are solid anonymization frameworks for **English**, **Bangla remains a low-resource language** in this area.  
 
  **PriBan** addresses this gap by:
--  Building the **first Bangla dataset** for privacy-preserving text rewriting.  
--  Fine-tuning **BanglaT5** for two strategies:
+- 🧠 Building the **first Bangla dataset** for privacy-preserving text rewriting.  
+- 🔧  Fine-tuning **BanglaT5** for two strategies:
     - **Delete** → Fully remove private information.  
     - **Obscure** → Replace sensitive details with generalized, context-aware expressions.  
 
 ---
 
-##  Dataset Overview
+## 🧾 Dataset Overview
 
-###  Human-Curated Data
+### 👩‍🏫 Human-Curated Data
 - Translated from the **NAP² (Naturalness and Privacy-Preserving Rewriting)** dataset.  
 - Expanded and rewritten manually by **trained Bangla annotators**.  
 - Achieved an acceptance rate of **57.25%**, revealing how challenging it is to maintain both **fluency** and **privacy**.
 
-###  LLM-Generated Data
+### 🤖 LLM-Generated Data
 - Synthetic samples generated using **GPT-4**.  
 - Two types of generation prompts were used:
   1. 🧩 **Complex, multi-clause sentences** to mimic real-world structures.  
@@ -42,7 +42,7 @@ With the growing use of **Large Language Models (LLMs)**, users often share sens
 
 ---
 
-##  Model & Training
+## ⚙️ Model & Training
 
 ###  Models Tested
 - 🟢 **BanglaT5** — A monolingual transformer trained on 27.5 GB of Bangla text.  
@@ -54,7 +54,7 @@ Both models were fine-tuned on **PriBan** for:
 
 ---
 
-##  Evaluation Metrics
+## 🧮 Evaluation Metrics
 
 | 🧾 Metric | 🎯 Description |
 |-----------|----------------|
@@ -64,7 +64,7 @@ Both models were fine-tuned on **PriBan** for:
 
 ---
 
-##  Results Summary
+## 📊 Results Summary
 
 | 🧠 Model | ✏️ Method | 🔒 Privacy_NLI ↑ | 🧩 ROUGE-1 ↑ | 🧾 ROUGE-Lsum ↑ |
 |----------|------------|-----------------|---------------|-----------------|
@@ -78,7 +78,7 @@ BanglaT5 performs *nearly on par with human rewrites* — achieving strong priva
 
 ---
 
-##  Key Contributions
+## 🧩 Key Contributions
 
 ✨ **PriBan introduces:**
 -  The **first Bangla dataset** for privacy-preserving rewriting.  
@@ -91,7 +91,7 @@ BanglaT5 performs *nearly on par with human rewrites* — achieving strong priva
 
 ---
 
-##  Future Work
+## 🚀 Future Work
 
  Building upon PriBan, future directions include:
 -  Expanding the dataset with **more diverse and domain-specific examples** (e.g., medical, legal, financial).    
