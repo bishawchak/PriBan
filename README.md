@@ -4,6 +4,7 @@
 > This paper has been **submitted to** [**International Conference on Computer and Information Technology (ICCIT) 2025**](https://iccit.org.bd/2025/about-iccit/) and is **currently under review**.  
 > 📦 The **dataset and code** will be released publicly **after acceptance**.
 - Update : Paper has been accepted and will included in **IEEE Xplorer**. All necessary files are uploaded.
+- (Authors : Anowarul Faruk Shishir, Bishaw Kirti Chakma, Indrajit Gupta)
 
 ---
 
