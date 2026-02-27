@@ -1,0 +1,11 @@
+Scaling Assessment (1–5):
+
+1 = Very unnatural → Empty, broken, or incoherent sentences. Missing structure.
+
+2 = Mostly unnatural → Very short fragments or incomplete clauses; lacks fluency.
+
+3 = Somewhat natural → Understandable but awkward; missing verb, punctuation, or overly repetitive.
+
+4 = Mostly natural → Grammatical and fluent, but with minor issues (slightly vague, too short/long, or fragment-like).
+
+5 = Very natural → Fully fluent, coherent, and typical in everyday Bangla usage.
