@@ -8,6 +8,15 @@
 
 ---
 
+### This repo includes :
+- Bn_dataset (bn_test, bn_valid, bn_train, bn_llm_generated_dataset).  
+- Code (bt5_model.py).
+- LLM_naturalnes_judgement (score_scaling, scored_bn_test, bn_test_set_llm_generated_score).
+- Prompt template(pdf)
+- PriBan Paper(pdf)
+
+---
+
 ## 🌍 Overview
 
 **PriBan** is the **first-ever** benchmark dataset and modeling framework for **privacy-preserving sentence rewriting in Bangla (Bengali)**. 
@@ -15,13 +24,6 @@
 It introduces a **fine-tuned BanglaT5 model** and a **human-inspired dataset** that protect personal or sensitive information while keeping the rewritten text **natural, fluent, and contextually meaningful**.
 
 ---
-
-### This repo includes :
-- Bn_dataset (bn_test, bn_valid, bn_train, bn_llm_generated_dataset).  
-- Code (bt5_model.py).
-- LLM_naturalnes_judgement (score_scaling, scored_bn_test, bn_test_set_llm_generated_score).
-- Prompt template(pdf)
-- PriBan Paper(pdf)
 
 ## 💡 Motivation
 
