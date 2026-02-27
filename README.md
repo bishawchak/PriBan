@@ -17,7 +17,7 @@ It introduces a **fine-tuned BanglaT5 model** and a **human-inspired dataset** t
 ---
 
 ### This repo includes :
-- Bn_dataset (bn_test, bn_valid, bn_llm_generated_dataset).  
+- Bn_dataset (bn_test, bn_valid, bn_train, bn_llm_generated_dataset).  
 - Code (bt5_model.py).
 - LLM_naturalnes_judgement (score_scaling, scored_bn_test, bn_test_set_llm_generated_score).
 - Prompt template(pdf)
