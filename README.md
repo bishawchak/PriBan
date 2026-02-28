@@ -13,7 +13,7 @@
 - Code (bt5_model.py).
 - LLM_naturalnes_judgement (score_scaling, scored_bn_test, bn_test_set_llm_generated_score).
 - Prompt template(pdf)
-- PriBan Paper(pdf)
+- PriBan Paper(192.pdf)
 
 ---
 
